@@ -1,1 +1,4 @@
-import galapagos_turtle as galapagos
+from galapagos import galapagos_turtle
+from galapagos import *
+
+forward(100)
