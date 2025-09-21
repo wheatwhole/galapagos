@@ -17,7 +17,7 @@ dependencies = []
 requires-python = ">=3.9"
 
 [project.scripts]
-galapagos = "__main__:main"
+galapagos = "galapagos.__main__:main"
 
 [tool.bumpver]
 current_version = "2.1.1"
