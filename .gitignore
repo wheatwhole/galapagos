@@ -1,0 +1,52 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+VENV/
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+*.manifest
+*.spec
+*.sqlite3
+*.db
+*.log
+.coverage
+htmlcov/
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+.ipynb_checkpoints
+*.ipynb
+# VS Code
+.vscode/
+# macOS
+.DS_Store
+# Jupyter Notebook
+.ipynb_checkpoints/
+# Unit test / coverage reports
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+# PyInstaller
+*.spec
+# Cython debug symbols
+cython_debug/
