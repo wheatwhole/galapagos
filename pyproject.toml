@@ -12,11 +12,7 @@ authors = [{ name = "wheatwhole", email = "wheatrefined@gmail.com" }]
 license = { file = "LICENSE" }
 
 keywords = ["galapagos", "turtle"]
-dependencies = [
-    "feedparser >= 5.2.0",
-    "html2text",
-    'tomli; python_version < "3.11"',
-]
+dependencies = []
 
 requires-python = ">=3.9"
 
