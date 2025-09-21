@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "galapagos-turtle"
-version = "1.0.0"
+version = "1.2.1"
 description = "im bored"
 readme = "README.md"
 authors = [{ name = "wheatwhole", email = "wheatrefined@gmail.com" }]
@@ -24,7 +24,7 @@ requires-python = ">=3.9"
 galapagos = "__main__:main"
 
 [tool.bumpver]
-current_version = "1.2.0"
+current_version = "1.2.1"
 version_pattern = "MAJOR.MINOR.PATCH"
 commit_message = "bump version {old_version} -> {new_version}"
 tag_message = "{new_version}"
