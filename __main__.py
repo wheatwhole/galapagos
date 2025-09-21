@@ -1,6 +1,6 @@
 # __main__.py
 
-from galapagos import *
+from galapagos_turtle import *
 
 def main():
     speed(base_speed)
