@@ -86,7 +86,7 @@ def lunge(px):
 
 def grid(spacing):
     for i in range(4):
-        teleport(-200+i*spacing,200,"false")
+        teleport(-200+i*spacing,200)
         pendown()
         setheading(270)
         forward(400)
