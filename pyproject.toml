@@ -36,4 +36,5 @@ push = false
     'current_version = "{version}"',
     'version = "{version}"',
 ]
+"__init__.py" = ["{version}"]
 
