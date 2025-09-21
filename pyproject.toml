@@ -20,9 +20,6 @@ dependencies = [
 
 requires-python = ">=3.9"
 
-[project.urls]
-aboutme = "wheatwhole.github.io"
-
 [project.scripts]
 galapagos = "__main__:main"
 

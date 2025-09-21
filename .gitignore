@@ -50,3 +50,5 @@ coverage.xml
 *.spec
 # Cython debug symbols
 cython_debug/
+.pypirc
+pyproject.toml
